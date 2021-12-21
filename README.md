@@ -1,1 +1,1 @@
-# xc-taka
+# xc
